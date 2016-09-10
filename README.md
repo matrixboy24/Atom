@@ -1,3 +1,4 @@
-# Atom
+Atom OS
+~~~~~~~~
 
-y'a rien à dire pour l'instant !
+Nothing to say for now !
